@@ -4661,7 +4661,6 @@ git commit -m 'First Git commit of my dotfiles :D'
 git branch -M main
 git remote add origin https://github.com/neomikr0n/dotfiles.git
 git config --global credential.helper store
-git push origin main
 ```
 
 one line to rule them all:
@@ -6757,6 +6756,7 @@ d3dx11_43
 ---
 
 :: Pacman is currently in use, please wait...
+There may be another Pacman instance running. Waiting...^Z
 Fix:
 ```
 sudo rm /var/lib/pacman/db.lck
@@ -6899,3 +6899,7 @@ unzip -qq gearlock.zip
 chmod 777 gearlock-main
 cd gearlock-main
 bash makeme
+
+---
+19.7121221
+-101.20355176
