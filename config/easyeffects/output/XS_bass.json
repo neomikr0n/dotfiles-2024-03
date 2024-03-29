@@ -271,7 +271,7 @@
             "alr-knee": 0.0,
             "alr-release": 50.0,
             "attack": 5.0,
-            "bypass": true,
+            "bypass": false,
             "dithering": "None",
             "external-sidechain": false,
             "gain-boost": false,
@@ -305,7 +305,7 @@
         "reverb#0": {
             "amount": -10.716679676582991,
             "bass-cut": 514.079,
-            "bypass": true,
+            "bypass": false,
             "decay-time": 1.10354,
             "diffusion": 0.69,
             "dry": 0.0,
@@ -313,7 +313,7 @@
             "input-gain": 0.0,
             "output-gain": 0.0,
             "predelay": 6.5,
-            "room-size": "Small",
+            "room-size": "Large/smooth",
             "treble-cut": 4064.15
         }
     }
